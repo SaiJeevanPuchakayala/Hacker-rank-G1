@@ -1,3 +1,3 @@
-m = str(input())
+m = input()
 n = m.swapcase()
 print(n)
