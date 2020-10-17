@@ -8,4 +8,4 @@ for x in range(x+1):
             arr = [[x,y,z]]
             arr.split(',')
             if x+y+z != n:
-                print(arr,end=" ")
+                print(arr,end=" ,")
